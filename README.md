@@ -1,10 +1,3 @@
-# Flaskスケルトン
-
-※Web作成時は、Serverディレクトリ内でゴニョゴニョ  
-
-Dockerインストール必須  
-Windows環境の場合は要makeインストール
-
 ## 起動
 ```
 # make run
